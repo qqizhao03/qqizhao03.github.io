@@ -1,2 +1,2 @@
-# qqizhao03.github.io
-My personal blog system.
+# zhao qqi's blog
+http://qqizhao.cn/
