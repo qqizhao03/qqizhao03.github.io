@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>教程 on ZhaoQiQi</title>
+    <link>http://qqizhao.cn/categories/%E6%95%99%E7%A8%8B/</link>
+    <description>Recent content in 教程 on ZhaoQiQi</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 05 Aug 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://qqizhao.cn/categories/%E6%95%99%E7%A8%8B/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>如何使用frp配置内网穿透</title>
+      <link>http://qqizhao.cn/post/2024-08-05-%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8frp%E9%85%8D%E7%BD%AE%E5%86%85%E7%BD%91%E7%A9%BF%E9%80%8F/</link>
+      <pubDate>Mon, 05 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>http://qqizhao.cn/post/2024-08-05-%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8frp%E9%85%8D%E7%BD%AE%E5%86%85%E7%BD%91%E7%A9%BF%E9%80%8F/</guid>
+      <description>1.Introduction 本文主要介绍了基于frp的内网穿透。 frp是一款开源的内网穿透工具，可以用于将内网的服务器暴露到公网，方便远程访问。 2.Frp frp是一款开源的内</description>
+    </item>
+  </channel>
+</rss>

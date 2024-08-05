@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on Zhao Qiqi</title>
+    <title>Categories on ZhaoQiQi</title>
     <link>http://qqizhao.cn/categories/</link>
-    <description>Recent content in Categories on Zhao Qiqi</description>
+    <description>Recent content in Categories on ZhaoQiQi</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 04 Jun 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Aug 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://qqizhao.cn/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Tech</title>
-      <link>http://qqizhao.cn/categories/tech/</link>
-      <pubDate>Mon, 04 Jun 2018 00:00:00 +0000</pubDate>
-      <guid>http://qqizhao.cn/categories/tech/</guid>
+      <title>教程</title>
+      <link>http://qqizhao.cn/categories/%E6%95%99%E7%A8%8B/</link>
+      <pubDate>Mon, 05 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>http://qqizhao.cn/categories/%E6%95%99%E7%A8%8B/</guid>
       <description></description>
     </item>
     <item>
-      <title>Tips</title>
-      <link>http://qqizhao.cn/categories/tips/</link>
-      <pubDate>Thu, 24 May 2018 00:00:00 +0000</pubDate>
-      <guid>http://qqizhao.cn/categories/tips/</guid>
+      <title>Tech</title>
+      <link>http://qqizhao.cn/categories/tech/</link>
+      <pubDate>Wed, 23 May 2018 10:00:00 +0000</pubDate>
+      <guid>http://qqizhao.cn/categories/tech/</guid>
       <description></description>
     </item>
   </channel>
