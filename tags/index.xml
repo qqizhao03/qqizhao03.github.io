@@ -22,19 +22,5 @@
       <guid>http://qqizhao.cn/tags/%E6%8A%80%E6%9C%AF/</guid>
       <description></description>
     </item>
-    <item>
-      <title>Microservice</title>
-      <link>http://qqizhao.cn/tags/microservice/</link>
-      <pubDate>Wed, 23 May 2018 10:00:00 +0000</pubDate>
-      <guid>http://qqizhao.cn/tags/microservice/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Security</title>
-      <link>http://qqizhao.cn/tags/security/</link>
-      <pubDate>Wed, 23 May 2018 10:00:00 +0000</pubDate>
-      <guid>http://qqizhao.cn/tags/security/</guid>
-      <description></description>
-    </item>
   </channel>
 </rss>
