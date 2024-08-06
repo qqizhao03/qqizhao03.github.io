@@ -2,41 +2,41 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://qqizhao.cn/categories/</loc>
+    <loc>http://localhost:64008/categories/</loc>
     <lastmod>2024-08-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://qqizhao.cn/post/</loc>
+    <loc>http://localhost:64008/post/</loc>
     <lastmod>2024-08-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://qqizhao.cn/tags/</loc>
+    <loc>http://localhost:64008/tags/</loc>
     <lastmod>2024-08-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://qqizhao.cn/</loc>
+    <loc>http://localhost:64008/categories/tutorial/</loc>
     <lastmod>2024-08-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://qqizhao.cn/tags/%E5%88%86%E4%BA%AB/</loc>
+    <loc>http://localhost:64008/</loc>
     <lastmod>2024-08-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://qqizhao.cn/post/2024-08-05-%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8frp%E9%85%8D%E7%BD%AE%E5%86%85%E7%BD%91%E7%A9%BF%E9%80%8F/</loc>
+    <loc>http://localhost:64008/tags/%E5%88%86%E4%BA%AB/</loc>
     <lastmod>2024-08-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://qqizhao.cn/tags/%E6%8A%80%E6%9C%AF/</loc>
+    <loc>http://localhost:64008/post/2024-08-05-%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8frp%E9%85%8D%E7%BD%AE%E5%86%85%E7%BD%91%E7%A9%BF%E9%80%8F/</loc>
     <lastmod>2024-08-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://qqizhao.cn/categories/%E6%95%99%E7%A8%8B/</loc>
+    <loc>http://localhost:64008/tags/%E6%8A%80%E6%9C%AF/</loc>
     <lastmod>2024-08-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://qqizhao.cn/post/readme/</loc>
+    <loc>http://localhost:64008/post/readme/</loc>
     <lastmod>2019-01-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://qqizhao.cn/about/</loc>
+    <loc>http://localhost:64008/about/</loc>
   </url><url>
-    <loc>http://qqizhao.cn/notes/</loc>
+    <loc>http://localhost:64008/notes/</loc>
   </url><url>
-    <loc>http://qqizhao.cn/search/placeholder/</loc>
+    <loc>http://localhost:64008/search/placeholder/</loc>
   </url><url>
-    <loc>http://qqizhao.cn/archive/</loc>
+    <loc>http://localhost:64008/archive/</loc>
   </url><url>
-    <loc>http://qqizhao.cn/search/</loc>
+    <loc>http://localhost:64008/search/</loc>
   </url>
 </urlset>
