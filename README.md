@@ -1,2 +1,2 @@
 # zhao qqi's blog
-http://qqizhao.cn/
+https://qqizhao.cn/
