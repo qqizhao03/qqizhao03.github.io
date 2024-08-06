@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Zhao QiQi</title>
-    <link>http://qqizhao.cn/categories/</link>
+    <link>https://qqizhao.cn/categories/</link>
     <description>Recent content in Categories on Zhao QiQi</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 05 Aug 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://qqizhao.cn/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://qqizhao.cn/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Tutorial</title>
-      <link>http://qqizhao.cn/categories/tutorial/</link>
+      <link>https://qqizhao.cn/categories/tutorial/</link>
       <pubDate>Mon, 05 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>http://qqizhao.cn/categories/tutorial/</guid>
+      <guid>https://qqizhao.cn/categories/tutorial/</guid>
       <description></description>
     </item>
   </channel>

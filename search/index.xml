@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Searches on Zhao QiQi</title>
-    <link>http://qqizhao.cn/search/</link>
+    <link>https://qqizhao.cn/search/</link>
     <description>Recent content in Searches on Zhao QiQi</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="http://qqizhao.cn/search/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://qqizhao.cn/search/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>http://qqizhao.cn/search/placeholder/</link>
+      <link>https://qqizhao.cn/search/placeholder/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://qqizhao.cn/search/placeholder/</guid>
+      <guid>https://qqizhao.cn/search/placeholder/</guid>
       <description></description>
     </item>
   </channel>
