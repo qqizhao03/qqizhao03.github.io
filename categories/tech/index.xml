@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tech on Zhao QiQi</title>
-    <link>http://localhost:62891/categories/tech/</link>
+    <link>http://localhost:1313/categories/tech/</link>
     <description>Recent content in Tech on Zhao QiQi</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 04 Jun 2018 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:62891/categories/tech/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/categories/tech/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>An Example Post</title>
-      <link>http://localhost:62891/post/test1/</link>
+      <link>http://localhost:1313/post/test/</link>
       <pubDate>Mon, 04 Jun 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:62891/post/test1/</guid>
-      <description>test </description>
+      <guid>http://localhost:1313/post/test/</guid>
+      <description></description>
     </item>
   </channel>
 </rss>

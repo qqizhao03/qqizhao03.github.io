@@ -6,14 +6,21 @@
     <description>Recent content in 技术 on Zhao QiQi</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 05 Aug 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Aug 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://qqizhao.cn/tags/%E6%8A%80%E6%9C%AF/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>mac如何下载配置ffmpeg</title>
+      <link>https://qqizhao.cn/post/2024-08-12-mac%E5%A6%82%E4%BD%95%E4%B8%8B%E8%BD%BD%E9%85%8D%E7%BD%AEffmpeg/</link>
+      <pubDate>Mon, 12 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://qqizhao.cn/post/2024-08-12-mac%E5%A6%82%E4%BD%95%E4%B8%8B%E8%BD%BD%E9%85%8D%E7%BD%AEffmpeg/</guid>
+      <description>1. 下载ffmpeg 下载地址 选择你的电脑版本下载即可。 点击 Download as ZIP 下载压缩包。 同理分别下载 ffplay 和 ffprobe。 下载完成后，解压压缩包，将解压后的</description>
+    </item>
     <item>
       <title>如何使用frp配置内网穿透</title>
       <link>https://qqizhao.cn/post/2024-08-05-%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8frp%E9%85%8D%E7%BD%AE%E5%86%85%E7%BD%91%E7%A9%BF%E9%80%8F/</link>
       <pubDate>Mon, 05 Aug 2024 00:00:00 +0000</pubDate>
       <guid>https://qqizhao.cn/post/2024-08-05-%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8frp%E9%85%8D%E7%BD%AE%E5%86%85%E7%BD%91%E7%A9%BF%E9%80%8F/</guid>
-      <description>last modified: 2024-08-06 1.介绍 本文主要介绍了基于frp的内网穿透。 frp是一款开源的内网穿透工具，可以用于将内网的服务器暴露到公网，方便远程访问。 2.frp frp可</description>
+      <description>1.介绍 本文主要介绍了基于frp的内网穿透。 frp是一款开源的内网穿透工具，可以用于将内网的服务器暴露到公网，方便远程访问。 2.frp frp可以通过</description>
     </item>
   </channel>
 </rss>

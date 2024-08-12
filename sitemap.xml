@@ -2,28 +2,31 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://qqizhao.cn/post/</loc>
-    <lastmod>2024-08-06T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://qqizhao.cn/</loc>
-    <lastmod>2024-08-06T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://qqizhao.cn/categories/</loc>
-    <lastmod>2024-08-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-08-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://qqizhao.cn/post/2024-08-12-mac%E5%A6%82%E4%BD%95%E4%B8%8B%E8%BD%BD%E9%85%8D%E7%BD%AEffmpeg/</loc>
+    <lastmod>2024-08-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://qqizhao.cn/post/</loc>
+    <lastmod>2024-08-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://qqizhao.cn/tags/</loc>
-    <lastmod>2024-08-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-08-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://qqizhao.cn/categories/tutorial/</loc>
-    <lastmod>2024-08-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-08-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://qqizhao.cn/</loc>
+    <lastmod>2024-08-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://qqizhao.cn/tags/%E5%88%86%E4%BA%AB/</loc>
-    <lastmod>2024-08-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://qqizhao.cn/post/2024-08-05-%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8frp%E9%85%8D%E7%BD%AE%E5%86%85%E7%BD%91%E7%A9%BF%E9%80%8F/</loc>
-    <lastmod>2024-08-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-08-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://qqizhao.cn/tags/%E6%8A%80%E6%9C%AF/</loc>
+    <lastmod>2024-08-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://qqizhao.cn/post/2024-08-05-%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8frp%E9%85%8D%E7%BD%AE%E5%86%85%E7%BD%91%E7%A9%BF%E9%80%8F/</loc>
     <lastmod>2024-08-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://qqizhao.cn/post/readme/</loc>
