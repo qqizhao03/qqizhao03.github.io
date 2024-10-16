@@ -1,0 +1,12 @@
+.subheading_zqq {
+    font-size: 40px; /* 增大字体大小 */
+    font-weight: 500; /* 设置字体粗细 */
+    text-align: center; /* 文本居中对齐 */
+    margin: 20px 0; /* 设置上下外边距 */
+    padding: 10px; /* 设置内边距 */
+    transition: all 0.3s ease; /* 平滑过渡效果 */
+}
+
+.subheading_zqq:hover {
+    color: #1139bf; /* 鼠标悬停时改变字体颜色 */
+}
